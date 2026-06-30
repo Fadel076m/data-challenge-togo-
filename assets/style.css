@@ -1,0 +1,281 @@
+/* ================================================================
+   Dashboard Résilience Agricole — Togo AI Lab · Défi 2
+   Font : Poppins (Google Fonts)
+   Palette : Vert #006a4e  |  Or #e8b400  |  Rouge discret #c0392b
+================================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --togo-vert:        #006a4e;
+  --togo-vert-mid:    #007d5c;
+  --togo-vert-clair:  #e8f5ef;
+  --togo-or:          #e8b400;
+  --togo-or-clair:    #fdf8e1;
+  --togo-rouge:       #c0392b;
+  --togo-rouge-clair: #fdf0ee;
+
+  --bg:          #f8fafb;
+  --surface:     #ffffff;
+  --border:      #e8edf0;
+  --text-main:   #1a2e26;
+  --text-muted:  #6b7c74;
+  --shadow-sm:   0 1px 4px rgba(0,80,50,.07);
+  --shadow-md:   0 4px 16px rgba(0,80,50,.12);
+  --radius:      10px;
+}
+
+/* ── Reset / Body ────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  background-color: var(--bg);
+  font-family: 'Poppins', 'Segoe UI', Arial, sans-serif;
+  color: var(--text-main);
+  font-size: 0.9rem;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Navbar ──────────────────────────────────────────────────── */
+.navbar {
+  background: var(--togo-vert) !important;
+  border-bottom: 3px solid var(--togo-or) !important;
+  padding: 14px 28px !important;
+  box-shadow: 0 3px 12px rgba(0,60,40,.22);
+  min-height: 64px;
+}
+
+.navbar-brand {
+  font-size: 1.15rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.2px;
+  line-height: 1.2;
+}
+
+/* Bande tricolore ultra-fine */
+.tricolor-band {
+  height: 3px;
+  background: linear-gradient(to right,
+    var(--togo-vert) 0%  33.3%,
+    var(--togo-or)  33.3% 66.6%,
+    #dde8e2         66.6% 100%
+  );
+}
+
+/* ── Tabs ────────────────────────────────────────────────────── */
+.nav-tabs {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border) !important;
+  padding: 0 24px;
+  gap: 2px;
+}
+
+.nav-tabs .nav-link {
+  color: var(--text-muted);
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 0.84rem;
+  border: none !important;
+  border-bottom: 2px solid transparent !important;
+  padding: 11px 16px;
+  border-radius: 0;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.nav-tabs .nav-link:hover {
+  color: var(--togo-vert);
+  border-bottom-color: var(--togo-or) !important;
+  background: transparent;
+}
+
+.nav-tabs .nav-link.active {
+  color: var(--togo-vert) !important;
+  font-weight: 700;
+  border-bottom: 2px solid var(--togo-vert) !important;
+  background: transparent !important;
+}
+
+/* ── Cards ───────────────────────────────────────────────────── */
+.card {
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius) !important;
+  box-shadow: var(--shadow-sm) !important;
+  background: var(--surface) !important;
+}
+
+.card-header {
+  background: var(--surface) !important;
+  border-bottom: 1px solid var(--border) !important;
+  color: var(--togo-vert);
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  padding: 10px 16px;
+}
+
+/* ── KPI cards ───────────────────────────────────────────────── */
+.kpi-card {
+  border-radius: var(--radius);
+  padding: 20px 16px 16px;
+  text-align: center;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.15s, transform 0.15s;
+}
+
+.kpi-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.kpi-value {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.05;
+  color: var(--togo-vert);
+}
+
+.kpi-label {
+  font-size: 0.75rem;
+  color: var(--text-main);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: 4px;
+}
+
+.kpi-sub {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-top: 3px;
+  font-weight: 400;
+}
+
+/* ── Figure context (légende sous les graphiques) ────────────── */
+.fig-context {
+  font-size: 0.74rem;
+  color: var(--text-muted);
+  padding: 6px 12px 2px;
+  font-style: italic;
+  border-top: 1px solid var(--border);
+  margin-top: 4px;
+}
+
+/* ── IRAT definition badge ───────────────────────────────────── */
+.irat-def {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--togo-vert-clair);
+  border: 1px solid #b2d8c8;
+  border-radius: 6px;
+  padding: 7px 14px;
+  font-size: 0.8rem;
+  color: var(--togo-vert);
+  font-weight: 500;
+  margin-bottom: 14px;
+}
+
+.irat-def strong {
+  font-weight: 700;
+}
+
+/* ── Section titles ──────────────────────────────────────────── */
+.section-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.76rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  padding-bottom: 8px;
+  margin-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+}
+
+/* ── Callouts ────────────────────────────────────────────────── */
+.callout-vert {
+  border-left: 3px solid var(--togo-vert);
+  background: var(--togo-vert-clair);
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 0.84rem;
+}
+
+.callout-or {
+  border-left: 3px solid var(--togo-or);
+  background: var(--togo-or-clair);
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 0.84rem;
+}
+
+.callout-rouge {
+  border-left: 3px solid #d9534f;
+  background: var(--togo-rouge-clair);
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 0.84rem;
+}
+
+/* ── Insight bar ─────────────────────────────────────────────── */
+.insight-bar {
+  background: var(--togo-vert-clair);
+  border-bottom: 1px solid #c8e6d8;
+  padding: 7px 28px;
+  font-size: 0.78rem;
+  color: var(--togo-vert);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.insight-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 2px 11px;
+  font-weight: 600;
+  font-size: 0.76rem;
+}
+
+/* ── Badge catégories ────────────────────────────────────────── */
+.badge-tres-resilient  { background-color: #1a7340 !important; }
+.badge-resilient       { background-color: #52b788 !important; }
+.badge-moyen           { background-color: #d4a017 !important; }
+.badge-vulnerable      { background-color: #e67e22 !important; }
+.badge-tres-vulnerable { background-color: #c0392b !important; }
+
+/* ── Footer ──────────────────────────────────────────────────── */
+.dashboard-footer {
+  text-align: center;
+  padding: 14px 24px;
+  font-size: 0.7rem;
+  color: #aab;
+  border-top: 1px solid var(--border);
+  margin-top: 40px;
+  background: var(--surface);
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ── ListGroup ───────────────────────────────────────────────── */
+.list-group-item {
+  font-size: 0.86rem;
+  padding: 10px 16px;
+  border-color: var(--border) !important;
+}
+
+/* ── Responsive ──────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .navbar-brand { font-size: 0.88rem !important; }
+  .kpi-value    { font-size: 1.5rem; }
+  .insight-bar  { gap: 8px; }
+}

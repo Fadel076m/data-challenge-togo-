@@ -1,0 +1,11 @@
+rang,prefecture,region,IRAT,Categorie,score_priorite,justification,Score_Eau,Score_Elevage,Score_Pisciculture,Score_Abattoirs,Score_Performance
+1,Plaine du Mo,Centrale,7.66,Très vulnérable,64.86,aucun abattoir · accès à l'eau insuffisant · pisciculture absente ou très limitée,9.86,0.63,12.26,13.66,0.41
+2,Kpendjal,Savanes,12.69,Très vulnérable,62.72,aucun abattoir · accès à l'eau insuffisant · pisciculture absente ou très limitée,25.63,4.17,8.03,14.74,1.45
+3,Wawa,Plateaux,14.32,Très vulnérable,61.58,accès à l'eau insuffisant,0.0,4.23,27.54,50.61,1.66
+4,Akebou,Plateaux,13.62,Très vulnérable,60.97,aucun abattoir · accès à l'eau insuffisant · pisciculture absente ou très limitée,16.07,1.41,19.86,29.32,0.75
+5,Anie,Plateaux,17.18,Très vulnérable,60.95,aucun abattoir,32.54,7.47,26.87,0.0,1.73
+6,Ogou,Plateaux,23.85,Vulnérable,60.79,aucun abattoir · filière élevage active (110 établissements),32.94,18.77,37.15,9.37,4.36
+7,Blitta,Centrale,23.7,Vulnérable,60.67,accès à l'eau insuffisant · filière élevage active (107 établissements),10.82,17.71,34.15,59.64,2.54
+8,Haho,Plateaux,57.33,Moyen,59.87,filière élevage active (420 établissements),69.94,73.28,43.26,55.18,10.95
+9,Oti-Sud,Savanes,14.64,Très vulnérable,59.75,aucun abattoir · pisciculture absente ou très limitée,32.93,0.0,0.0,31.76,0.0
+10,Tchamba,Centrale,20.05,Vulnérable,58.8,accès à l'eau insuffisant,8.69,6.89,43.96,45.6,0.93

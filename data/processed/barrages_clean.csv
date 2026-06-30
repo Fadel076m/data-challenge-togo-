@@ -1,0 +1,301 @@
+FID,region_nom_bdd,prefecture_nom_bdd,commune_nom_bdd,canton_nom_bdd,centroid_lon,centroid_lat,region_nom_bdd_norm,prefecture_nom_bdd_norm,canton_nom_bdd_norm,source,prefecture_nom_bdd_clean
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ad2,Maritime,Avé,Avé 2,Badja,1.0278897955220945,6.362503139203198,maritime,ave,badja,barrages,ave
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ad3,Maritime,Avé,Avé 2,Badja,1.0072720240439748,6.343431265297652,maritime,ave,badja,barrages,ave
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ad4,Maritime,Avé,Avé 1,Edzi,0.8709354861637401,6.400911731807978,maritime,ave,edzi,barrages,ave
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ad5,Kara,Bassar,Bassar 4,Sanda-Afohou,0.9545404898113794,9.467182866711596,kara,bassar,sanda afohou,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ad6,Maritime,Avé,Avé 1,Ando,0.8427815906279882,6.523876346330586,maritime,ave,ando,barrages,ave
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ad7,Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,1.228537999886979,6.295727452833507,maritime,agoe nyive,adetikope,barrages,agoe nyive
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ad8,Kara,Kozah,Kozah 1,Commune De Kara,1.172212376364233,9.559824781310915,kara,kozah,kara,barrages,kozah
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ad9,Kara,Kéran,Kéran 2,Hélota,0.7823615780963957,9.943151429502276,kara,keran,helota,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ada,Kara,Kéran,Kéran 2,Hélota,0.8077951887655247,9.946933898478857,kara,keran,helota,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4adb,Kara,Kéran,Kéran 2,Ataloté,0.9126520151781541,9.922450592712806,kara,keran,atalote,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4adc,Kara,Bassar,Bassar 1,Bassar,0.787748440377484,9.270664256565162,kara,bassar,bassar,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4add,Kara,Dankpen,Dankpen 1,Katchamba,0.5454078498880985,9.841766140680983,kara,dankpen,katchamba,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ade,Maritime,Lacs,Lacs 2,Aklakou,1.7235378545739286,6.361982853371964,maritime,lacs,aklakou,barrages,lacs
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4adf,Maritime,Lacs,Lacs 2,Aklakou,1.725106151447225,6.364492355583872,maritime,lacs,aklakou,barrages,lacs
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ae0,Kara,Bassar,Bassar 4,Sanda-Kagbanda,0.8633955760435402,9.482354431931968,kara,bassar,sanda kagbanda,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ae1,Plateaux,Est-Mono,Est-Mono 1,Elavagnon,1.3044680251664957,7.908085450382033,plateaux,est mono,elavagnon,barrages,est mono
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ae2,Plateaux,Ogou,Ogou 2,Akparé,1.2638962418747268,7.516892214694367,plateaux,ogou,akpare,barrages,ogou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ae3,Plateaux,Haho,Haho 1,Atchavé,1.1916885339668137,6.86083741675413,plateaux,haho,atchave,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ae4,Plateaux,Haho,Haho 1,Atchavé,1.1921466018284588,6.860663708160566,plateaux,haho,atchave,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ae5,Plateaux,Kpélé,Kpélé 2,Kpélé-Gbalédzé,0.7406940917199039,7.194979484266879,plateaux,kpele,kpele gbaledze,barrages,kpele
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ae6,Kara,Dankpen,Dankpen 1,Katchamba,0.5359646499451307,9.884970915621972,kara,dankpen,katchamba,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ae7,Plateaux,Agou,Agou 2,Agotimé-Sud (Adzakpa),0.7753232315176144,6.57033678659503,plateaux,agou,agotime sud (adzakpa),barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ae8,Plateaux,Agou,Agou 2,Agotimé-Sud (Adzakpa),0.7941222223315982,6.591079018509762,plateaux,agou,agotime sud (adzakpa),barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ae9,Maritime,Avé,Avé 1,Ando,0.7709697437206731,6.552359208258477,maritime,ave,ando,barrages,ave
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4aea,Savanes,Tône,Tône 1,Toaga,0.24212590411402646,10.889919716738593,savanes,tone,toaga,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4aeb,Savanes,Tône,Tône 2,Nanergou,0.15600344167142755,10.905811369013318,savanes,tone,nanergou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4aec,Savanes,Tône,Tône 1,Toaga,0.23959904601041082,10.915475501911349,savanes,tone,toaga,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4aed,Savanes,Tône,Tône 4,Korbongou,0.34505796968766506,10.920922282463549,savanes,tone,korbongou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4aee,Savanes,Tandjoaré,Tandjoaré 1,Bombouaka,0.19338454210795014,10.744884080616718,savanes,tandjoare,bombouaka,barrages,tandjoare
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4aef,Savanes,Tandjoaré,Tandjoaré 1,Bombouaka,0.19778299783593595,10.724225436357013,savanes,tandjoare,bombouaka,barrages,tandjoare
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4af0,Kara,Doufelgou,Doufelgou 2,Kpaha,1.1289110163128249,9.886125990068978,kara,doufelgou,kpaha,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4af1,Maritime,Lacs,Lacs 4,Fiata,1.63720189356581,6.312969367175437,maritime,lacs,fiata,barrages,lacs
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4af2,Savanes,Tône,Tône 1,Toaga,0.25504033905338525,10.879898324363811,savanes,tone,toaga,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4af3,Maritime,Zio,Zio 1,Abobo,1.3026027042373298,6.222423481550711,maritime,zio,abobo,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4af4,Maritime,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,1.1268148678695569,6.267310271610239,maritime,agoe nyive,sanguera,barrages,agoe nyive
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4af5,Kara,Kozah,Kozah 2,Pya,1.158918015027897,9.681674189613613,kara,kozah,pya,barrages,kozah
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4af6,Kara,Kozah,Kozah 3,Awandjélo,1.2081952422510598,9.476747228219732,kara,kozah,awandjelo,barrages,kozah
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4af7,Kara,Kozah,Kozah 4,Atchangbadè,1.133225015601459,9.47651800726922,kara,kozah,atchangbade,barrages,kozah
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4af8,Kara,Kozah,Kozah 4,Atchangbadè,1.0777171045930707,9.476203879264636,kara,kozah,atchangbade,barrages,kozah
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4af9,Kara,Kozah,Kozah 4,Atchangbadè,1.0731781833508935,9.473278070027618,kara,kozah,atchangbade,barrages,kozah
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4afa,Kara,Kozah,Kozah 3,Kpinzindè,1.2514918104581891,9.464190116060198,kara,kozah,kpinzinde,barrages,kozah
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4afb,Kara,Kozah,Kozah 3,Kpinzindè,1.2589143494158033,9.458225192538299,kara,kozah,kpinzinde,barrages,kozah
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4afc,Kara,Kéran,Kéran 3,Warengo,1.1300916509277177,10.045192026988868,kara,keran,warengo,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4afd,Kara,Kéran,Kéran 3,Warengo,1.1197052119570572,10.096906079974664,kara,keran,warengo,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4afe,Centrale,Blitta,Blitta 1,Yaloumbè,1.1010886389274401,8.281900842626273,centrale,blitta,yaloumbe,barrages,blitta
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4aff,Maritime,Zio,Zio 2,Bolou,1.1677015153835635,6.444451313794512,maritime,zio,bolou,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b00,Maritime,Lacs,Lacs 2,Aklakou,1.7245633259131132,6.363597859340175,maritime,lacs,aklakou,barrages,lacs
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b01,Savanes,Tône,Tône 3,Tami,0.06181992018580065,10.850147832956857,savanes,tone,tami,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b02,Savanes,Tône,Tône 1,Toaga,0.24368590903733944,10.883160449631639,savanes,tone,toaga,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b03,Centrale,Tchamba,Tchamba 1,Affem,1.5078766403192159,9.133010691814865,centrale,tchamba,affem,barrages,tchamba
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b04,Centrale,Sotouboua,Sotouboua 2,Aouda,0.9448140998355653,8.733245741884687,centrale,sotouboua,aouda,barrages,sotouboua
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b05,Centrale,Sotouboua,Sotouboua 2,Aouda,0.9457960536660825,8.730118214240619,centrale,sotouboua,aouda,barrages,sotouboua
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b06,Centrale,Blitta,Blitta 1,Blitta,0.9672464407169425,8.322297322206392,centrale,blitta,blitta,barrages,blitta
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b07,Centrale,Blitta,Blitta 1,Blitta,0.9665433853453224,8.321749879183375,centrale,blitta,blitta,barrages,blitta
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b08,Centrale,Sotouboua,Sotouboua 2,Tittigbe,1.1216513066724438,8.610094705989207,centrale,sotouboua,tittigbe,barrages,sotouboua
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b09,Centrale,Sotouboua,Sotouboua 2,Adjengré,1.012136525854751,8.647275580009158,centrale,sotouboua,adjengre,barrages,sotouboua
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b0a,Centrale,Sotouboua,Sotouboua 2,Adjengré,1.0129250145235627,8.666063930201727,centrale,sotouboua,adjengre,barrages,sotouboua
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b0b,Centrale,Sotouboua,Sotouboua 1,Sotouboua,0.9632411822484788,8.565252570799029,centrale,sotouboua,sotouboua,barrages,sotouboua
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b0c,Kara,Assoli,Assoli 2,Alédjo,1.2258842176634306,9.283419846828513,kara,assoli,aledjo,barrages,assoli
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b0d,Kara,Kéran,Kéran 2,Ossacré,0.717704613793636,10.06381049681655,kara,keran,ossacre,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b0e,Kara,Kéran,Kéran 2,Ossacré,0.8034623387158054,10.026963360216614,kara,keran,ossacre,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b0f,Kara,Kéran,Kéran 2,Ossacré,0.7569194675181735,10.062744132581477,kara,keran,ossacre,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b10,Maritime,Avé,Avé 1,Kévé,1.0319450000000001,6.463593333333334,maritime,ave,keve,barrages,ave
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b11,Centrale,Tchamba,Tchamba 1,Affem,1.5329244748626387,9.164909283622329,centrale,tchamba,affem,barrages,tchamba
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b12,Centrale,Tchamba,Tchamba 1,Affem,1.4706794081739853,9.12189079780407,centrale,tchamba,affem,barrages,tchamba
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b13,Centrale,Blitta,Blitta 1,Yaloumbè,1.1012292444467162,8.282402506691387,centrale,blitta,yaloumbe,barrages,blitta
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b14,Centrale,Tchamba,Tchamba 1,Affem,1.5409886410132432,9.130765787717293,centrale,tchamba,affem,barrages,tchamba
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b15,Centrale,Blitta,Blitta 1,Blitta-Village,0.9989283344685856,8.393924372616937,centrale,blitta,blitta village,barrages,blitta
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b16,Centrale,Sotouboua,Sotouboua 3,Bodjondè,0.9929137783951405,8.470678781205105,centrale,sotouboua,bodjonde,barrages,sotouboua
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b17,Kara,Dankpen,Dankpen 1,Guérin-Kouka,0.439997191110381,9.675226043430175,kara,dankpen,guerin kouka,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b18,Kara,Bassar,Bassar 1,Bassar,0.7618572174416638,9.223912575377067,kara,bassar,bassar,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b19,Kara,Kéran,Kéran 1,Pessidè,1.0086756840827078,9.976373938821071,kara,keran,pesside,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b1a,Kara,Bassar,Bassar 2,Dimori,0.616942766470388,9.02317944798773,kara,bassar,dimori,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b1b,Kara,Bassar,Bassar 1,Baghan,0.6745147925399941,9.06489786964568,kara,bassar,baghan,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b1c,Kara,Bassar,Bassar 1,Kalanga,0.6461103755734374,9.286374300349673,kara,bassar,kalanga,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b1d,Kara,Assoli,Assoli 3,Soudou,1.3246187348779093,9.357950808057836,kara,assoli,soudou,barrages,assoli
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b1e,Kara,Doufelgou,Doufelgou 1,Niamtougou,1.1211723282271322,9.762045751109468,kara,doufelgou,niamtougou,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b1f,Kara,Bassar,Bassar 3,Kabou,0.8245314721063226,9.460290576067333,kara,bassar,kabou,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b20,Kara,Doufelgou,Doufelgou 1,Baga,1.079235274405332,9.790190802877769,kara,doufelgou,baga,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b21,Kara,Doufelgou,Doufelgou 1,Baga,1.11464987580189,9.78966181473131,kara,doufelgou,baga,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b22,Kara,Bassar,Bassar 3,Kabou,0.8088446485902795,9.431222528222504,kara,bassar,kabou,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b23,Kara,Bassar,Bassar 4,Sanda-Kagbanda,0.907409166844102,9.50338376692585,kara,bassar,sanda kagbanda,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b24,Kara,Dankpen,Dankpen 1,Naompoch,0.6489703364875495,9.857056234744912,kara,dankpen,naompoch,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b25,Kara,Dankpen,Dankpen 1,Naompoch,0.6395874217084122,9.798784892692403,kara,dankpen,naompoch,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b26,Kara,Bassar,Bassar 4,Sanda-Kagbanda,0.900955009028864,9.48559172448679,kara,bassar,sanda kagbanda,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b27,Kara,Dankpen,Dankpen 1,Guérin-Kouka,0.6134303091140143,9.688695857913553,kara,dankpen,guerin kouka,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b28,Kara,Dankpen,Dankpen 1,Naompoch,0.6294516479505512,9.783872668409611,kara,dankpen,naompoch,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b29,Kara,Dankpen,Dankpen 1,Guérin-Kouka,0.43936273072039583,9.675003556866184,kara,dankpen,guerin kouka,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b2a,Kara,Bassar,Bassar 4,Sanda-Kagbanda,0.896183417380994,9.476820845051494,kara,bassar,sanda kagbanda,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b2b,Kara,Dankpen,Dankpen 1,Koulféikou,0.4101501246065943,9.925522970740444,kara,dankpen,koulfeikou,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b2c,Kara,Dankpen,Dankpen 2,Namon,0.811377932185978,9.72313566480264,kara,dankpen,namon,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b2d,Plateaux,Amou,Amou 1,Imlè-Adiva,0.9556220940714282,7.501456149309185,plateaux,amou,imle adiva,barrages,amou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b2e,Maritime,Zio,Zio 3,Gamé-Sèva,1.217785960823325,6.740395013904498,maritime,zio,game seva,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b2f,Kara,Dankpen,Dankpen 1,Koulféikou,0.4082579602847417,9.990314056559667,kara,dankpen,koulfeikou,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b30,Plateaux,Agou,Agou 1,Gadja,0.8466479573583419,6.773008420874982,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b31,Plateaux,Haho,Haho 3,Kpédomé,1.1991696257581397,7.085910642537181,plateaux,haho,kpedome,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b32,Plateaux,Agou,Agou 1,Gadja,0.8172100852700248,6.829284104581224,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b33,Plateaux,Haho,Haho 1,Notsé,1.1893850905473597,6.952798755452684,plateaux,haho,notse,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b34,Centrale,Mô,Mô 1,Boulohou,0.6123989723575032,8.635107803234462,centrale,mo,boulohou,barrages,mo
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b35,Kara,Bassar,Bassar 4,Sanda-Kagbanda,0.8849576867707032,9.478859321066098,kara,bassar,sanda kagbanda,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b36,Kara,Dankpen,Dankpen 2,Koutchitchéou,0.771973800734458,9.619530894244559,kara,dankpen,koutchitcheou,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b37,Kara,Doufelgou,Doufelgou 3,Kadjalla,0.9727964415138384,9.807361851106414,kara,doufelgou,kadjalla,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b38,Kara,Doufelgou,Doufelgou 3,Kadjalla,0.921371039345012,9.777898398278566,kara,doufelgou,kadjalla,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b39,Kara,Dankpen,Dankpen 2,Natchiboré,0.8290972671748496,9.849369862964785,kara,dankpen,natchibore,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b3a,Kara,Dankpen,Dankpen 2,Natchiboré,0.8039602176231518,9.85908397955231,kara,dankpen,natchibore,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b3b,Kara,Doufelgou,Doufelgou 3,Kadjalla,1.0132514249807378,9.790914409233466,kara,doufelgou,kadjalla,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b3c,Kara,Doufelgou,Doufelgou 3,Tchoré,1.006204592192852,9.843289974807501,kara,doufelgou,tchore,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b3d,Kara,Dankpen,Dankpen 2,Natchiboré,0.7342283568956299,9.79797723609551,kara,dankpen,natchibore,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b3e,Kara,Doufelgou,Doufelgou 2,Défalé,1.0815442949139686,9.87816585089048,kara,doufelgou,defale,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b3f,Kara,Dankpen,Dankpen 3,Nandouta,0.25244118463890924,9.564576680888804,kara,dankpen,nandouta,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b40,Kara,Dankpen,Dankpen 3,Nandouta,0.41444700679644236,9.604421576736073,kara,dankpen,nandouta,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b41,Kara,Dankpen,Dankpen 3,Nandouta,0.25208259600465177,9.565216071502963,kara,dankpen,nandouta,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b42,Kara,Dankpen,Dankpen 3,Nandouta,0.39414905456952576,9.639060606655505,kara,dankpen,nandouta,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b43,Kara,Dankpen,Dankpen 3,Bapuré,0.6115172128528614,9.516412974597607,kara,dankpen,bapure,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b44,Kara,Dankpen,Dankpen 3,Bapuré,0.6142986077227865,9.511469261036124,kara,dankpen,bapure,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b45,Kara,Doufelgou,Doufelgou 3,Alloum,0.9181885576682571,9.749667466716648,kara,doufelgou,alloum,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b46,Kara,Doufelgou,Doufelgou 3,Léon,0.9533265963910567,9.671367649072712,kara,doufelgou,leon,barrages,doufelgou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b47,Plateaux,Haho,Haho 1,Notsé,1.1324886406618688,6.926639661017601,plateaux,haho,notse,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b48,Plateaux,Kloto,Kloto 2,Kpimé,0.644330798805833,7.009719694664152,plateaux,kloto,kpime,barrages,kloto
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b49,Plateaux,Akébou,Akébou 1,Djon,0.789724175551359,7.720425737276986,plateaux,akebou,djon,barrages,akebou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b4a,Plateaux,Moyen-Mono,Moyen-Mono 2,Kpékplémé,1.565964167882821,7.298998063458445,plateaux,moyen mono,kpekpleme,barrages,moyen mono
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b4b,Plateaux,Haho,Haho 2,Asrama,1.5004529354195884,7.008678976124607,plateaux,haho,asrama,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b4c,Plateaux,Kloto,Kloto 2,Lavié-Apédomé,0.7332765541782177,6.966152117515958,plateaux,kloto,lavie apedome,barrages,kloto
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b4d,Plateaux,Moyen-Mono,Moyen-Mono 2,Saligbé,1.5923446421049996,7.251367416413717,plateaux,moyen mono,saligbe,barrages,moyen mono
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b4e,Plateaux,Anié,Anié 1,Anié,1.1420151342805906,7.730730362167576,plateaux,anie,anie,barrages,anie
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b4f,Plateaux,Amou,Amou 1,Imlè-Adiva,0.989021017494684,7.509981613012144,plateaux,amou,imle adiva,barrages,amou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b50,Plateaux,Haho,Haho 2,Djemegni,1.2666497802083907,6.941271162521809,plateaux,haho,djemegni,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b51,Plateaux,Haho,Haho 2,Asrama,1.3828402306618806,7.012812939811317,plateaux,haho,asrama,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b52,Plateaux,Agou,Agou 1,Agou-Nyogbo-Agbétiko,0.7680900851719915,6.988643849368366,plateaux,agou,agou nyogbo agbetiko,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b53,Plateaux,Kpélé,Kpélé 2,Kpélé-Kamé,0.7945065626054736,7.204571035573214,plateaux,kpele,kpele kame,barrages,kpele
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b54,Savanes,Tandjoaré,Tandjoaré 1,Bombouaka,0.18501614081621545,10.737128218370158,savanes,tandjoare,bombouaka,barrages,tandjoare
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b55,Plateaux,Haho,Haho 2,Djemegni,1.2698078859267163,6.99589607160947,plateaux,haho,djemegni,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b56,Plateaux,Agou,Agou 1,Gadja,0.8428146586715385,6.787304861595092,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b57,Plateaux,Agou,Agou 1,Agou-Nyogbo-Agbétiko,0.7674620010342191,6.916066545296504,plateaux,agou,agou nyogbo agbetiko,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b58,Plateaux,Haho,Haho 1,Dalia,1.1297521901628507,6.809919506526567,plateaux,haho,dalia,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b59,Plateaux,Agou,Agou 1,Gadja,0.8065688111778061,6.77341713765075,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b5a,Plateaux,Amou,Amou 2,Ekpégnon,0.9642912311310281,7.327102671014265,plateaux,amou,ekpegnon,barrages,amou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b5b,Plateaux,Amou,Amou 2,Ekpégnon,0.9953757227574463,7.299515124649501,plateaux,amou,ekpegnon,barrages,amou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b5c,Plateaux,Agou,Agou 1,Agou-Atigbé,0.7674176595160489,6.773491666047624,plateaux,agou,agou atigbe,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b5d,Plateaux,Agou,Agou 1,Gadja,0.8013892550352641,6.796271813555769,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b5e,Plateaux,Agou,Agou 1,Gadja,0.8359506610982746,6.7862983875874665,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b5f,Plateaux,Agou,Agou 2,Agotimé-Nord,0.7343365725574095,6.737204699042658,plateaux,agou,agotime nord,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b60,Plateaux,Haho,Haho 4,Wahala,1.1129823888004025,7.15910804823814,plateaux,haho,wahala,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b61,Plateaux,Amou,Amou 2,Kpatégan,0.9686806849229049,7.359440513189958,plateaux,amou,kpategan,barrages,amou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b62,Plateaux,Haho,Haho 3,Kpédomé,1.1849409300066722,7.051776672195916,plateaux,haho,kpedome,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b63,Plateaux,Agou,Agou 1,Gadja,0.8079910885357138,6.835301103594041,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b64,Plateaux,Agou,Agou 1,Gadja,0.7857450599810527,6.768728853576513,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b65,Plateaux,Agou,Agou 1,Gadja,0.786201970645526,6.770944557080101,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b66,Plateaux,Haho,Haho 1,Atchavé,1.1145609987929739,6.868055801603818,plateaux,haho,atchave,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b67,Plateaux,Haho,Haho 1,Atchavé,1.114673220341075,6.867959616832805,plateaux,haho,atchave,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b68,Plateaux,Haho,Haho 4,Wahala,1.1659146181847238,7.161864919031913,plateaux,haho,wahala,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b69,Plateaux,Haho,Haho 1,Hahomégbé,0.9837798844230873,6.958106070663348,plateaux,haho,hahomegbe,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b6a,Plateaux,Agou,Agou 1,Gadja,0.8590633865065865,6.7831001597100755,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b6b,Plateaux,Danyi,Danyi 1,Danyi-Atigba,0.6771766376364665,7.2329337067305035,plateaux,danyi,danyi atigba,barrages,danyi
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b6c,Plateaux,Agou,Agou 2,Amoussou-Kopé,0.8161051004464006,6.70608744197923,plateaux,agou,amoussou kope,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b6d,Plateaux,Haho,Haho 3,Kpédomé,1.2070984572628431,7.031290304070054,plateaux,haho,kpedome,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b6e,Plateaux,Haho,Haho 3,Kpédomé,1.2284619795130542,7.034547050279746,plateaux,haho,kpedome,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b6f,Plateaux,Agou,Agou 1,Gadja,0.7994360976712063,6.726201190062774,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b70,Plateaux,Agou,Agou 2,Amoussou-Kopé,0.8096918721345058,6.709228418963822,plateaux,agou,amoussou kope,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b71,Plateaux,Haho,Haho 4,Wahala,1.1668885304251266,7.171103951689177,plateaux,haho,wahala,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b72,Plateaux,Haho,Haho 1,Atchavé,1.1367876516998041,6.863278978110012,plateaux,haho,atchave,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b73,Plateaux,Haho,Haho 3,Kpédomé,1.157777485624699,7.04201013604356,plateaux,haho,kpedome,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b74,Plateaux,Agou,Agou 2,Agotimé-Nord,0.7410480245426679,6.7416841832080765,plateaux,agou,agotime nord,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b75,Plateaux,Haho,Haho 1,Notsé,1.1894262384005325,6.953565004870544,plateaux,haho,notse,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b76,Plateaux,Kpélé,Kpélé 1,Kpélé-Dawlotou,0.8447191391403033,6.900404640589319,plateaux,kpele,kpele dawlotou,barrages,kpele
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b77,Plateaux,Haho,Haho 1,Notsé,1.1894555185311684,6.953760339492092,plateaux,haho,notse,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b78,Maritime,Avé,Avé 1,Tovégan,0.7751307150299668,6.553298830102865,maritime,ave,tovegan,barrages,ave
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b79,Plateaux,Est-Mono,Est-Mono 1,Elavagnon,1.4864686308763286,7.916091796799391,plateaux,est mono,elavagnon,barrages,est mono
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b7a,Plateaux,Anié,Anié 2,Glitto,1.5194903848471222,7.598320300882665,plateaux,anie,glitto,barrages,anie
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b7b,Plateaux,Agou,Agou 2,Amoussou-Kopé,0.8193561433630469,6.706416339553368,plateaux,agou,amoussou kope,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b7c,Plateaux,Agou,Agou 2,Amoussou-Kopé,0.8240238626440922,6.7026079980716124,plateaux,agou,amoussou kope,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b7d,Plateaux,Agou,Agou 1,Gadja,0.8442141713185533,6.761799456053706,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b7e,Plateaux,Agou,Agou 1,Kati,0.8340010348508586,6.88112863389437,plateaux,agou,kati,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b7f,Plateaux,Agou,Agou 1,Agou-Atigbé,0.7568133428238673,6.77405794872621,plateaux,agou,agou atigbe,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b80,Plateaux,Kloto,Kloto 1,Tové,0.711016032971607,6.873404884151272,plateaux,kloto,tove,barrages,kloto
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b81,Plateaux,Agou,Agou 1,Gadja,0.7920675909518505,6.716628892517554,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b82,Plateaux,Agou,Agou 1,Gadja,0.7919222320117432,6.715560776226482,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b83,Plateaux,Agou,Agou 1,Gadja,0.7954238953461429,6.716022894573556,plateaux,agou,gadja,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b84,Plateaux,Haho,Haho 1,Hahomégbé,1.060310862903001,6.940607174305788,plateaux,haho,hahomegbe,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b85,Plateaux,Haho,Haho 4,Wahala,1.165447118252459,7.185853473006643,plateaux,haho,wahala,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b86,Plateaux,Haho,Haho 1,Hahomégbé,1.0038345497236185,6.935298469423549,plateaux,haho,hahomegbe,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b87,Plateaux,Haho,Haho 1,Hahomégbé,0.9946634279239817,6.96256145003855,plateaux,haho,hahomegbe,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b88,Plateaux,Agou,Agou 2,Agotimé-Nord,0.7182457696008253,6.662951302021875,plateaux,agou,agotime nord,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b89,Plateaux,Agou,Agou 2,Agotimé-Nord,0.7230845000625082,6.701901624061876,plateaux,agou,agotime nord,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b8a,Plateaux,Agou,Agou 2,Agotimé-Nord,0.7280124927430711,6.7201282830914675,plateaux,agou,agotime nord,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b8b,Savanes,Tandjoaré,Tandjoaré 1,Bombouaka,0.20129244310004732,10.712838306895538,savanes,tandjoare,bombouaka,barrages,tandjoare
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b8c,Plateaux,Haho,Haho 1,Hahomégbé,1.0520902133425956,6.925058881468984,plateaux,haho,hahomegbe,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b8d,Plateaux,Agou,Agou 2,Agotimé-Nord,0.7061969470654266,6.75844249458612,plateaux,agou,agotime nord,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b8e,Savanes,Tône,Tône 2,Naki-Ouest,0.07928513807440306,10.915818511083064,savanes,tone,naki ouest,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b8f,Savanes,Tône,Tône 1,Toaga,0.23719343967621426,10.878117793577593,savanes,tone,toaga,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b90,Savanes,Tône,Tône 1,Toaga,0.2514907816123172,10.874877053342729,savanes,tone,toaga,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b91,Savanes,Tône,Tône 3,Nioukpourma,0.1257359045644822,10.855737963483676,savanes,tone,nioukpourma,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b92,Savanes,Tône,Tône 3,Nioukpourma,0.13435055854444058,10.852817161710485,savanes,tone,nioukpourma,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b93,Savanes,Tône,Tône 1,Pana,0.2733130341684779,10.752545653841084,savanes,tone,pana,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b94,Savanes,Tône,Tône 2,Nanergou,0.1534672941876546,10.918869831879173,savanes,tone,nanergou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b95,Savanes,Tône,Tône 2,Nanergou,0.1566335841043586,10.919357452603018,savanes,tone,nanergou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b96,Savanes,Tône,Tône 2,Nanergou,0.1412137299609712,10.938009874811309,savanes,tone,nanergou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b97,Maritime,Zio,Zio 3,Gamé-Sèva,1.180938226181727,6.725628550315122,maritime,zio,game seva,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b98,Savanes,Tône,Tône 1,Toaga,0.2680294924791664,10.885143114988704,savanes,tone,toaga,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b99,Savanes,Tandjoaré,Tandjoaré 2,Sissiak,0.12342315461917794,10.798876190068974,savanes,tandjoare,sissiak,barrages,tandjoare
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b9a,Savanes,Tône,Tône 3,Warkambou,-0.012088504983072892,10.805810084946504,savanes,tone,warkambou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b9b,Savanes,Tône,Tône 2,Namaré,0.089542464021798,10.983752290116525,savanes,tone,namare,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b9c,Savanes,Tône,Tône 2,Naki-Ouest,0.03726730702413555,10.94244104380709,savanes,tone,naki ouest,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b9d,Savanes,Tône,Tône 2,Naki-Ouest,0.0682874942266758,10.88255586018428,savanes,tone,naki ouest,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b9e,Savanes,Tandjoaré,Tandjoaré 2,Tampialime,-0.034099858518447365,10.77991833415565,savanes,tandjoare,tampialime,barrages,tandjoare
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4b9f,Savanes,Tône,Tône 2,Naki-Ouest,0.01484535573541785,10.958392716900828,savanes,tone,naki ouest,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ba0,Savanes,Tône,Tône 4,Louanga,0.3164014351854174,10.898553075337704,savanes,tone,louanga,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ba1,Savanes,Tône,Tône 1,Natigou,0.2515800879992941,11.000865708769137,savanes,tone,natigou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ba2,Plateaux,Haho,Haho 2,Djemegni,1.3284882069377875,6.990928758175176,plateaux,haho,djemegni,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ba3,Plateaux,Agou,Agou 2,Amoussou-Kopé,0.8000804620598512,6.711825974057325,plateaux,agou,amoussou kope,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ba4,Plateaux,Agou,Agou 2,Agotimé-Nord,0.7057875168372055,6.6382168811096935,plateaux,agou,agotime nord,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ba5,Plateaux,Agou,Agou 2,Agotimé-Nord,0.6707051760981076,6.697721521544319,plateaux,agou,agotime nord,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ba6,Plateaux,Agou,Agou 2,Agotimé-Nord,0.7058380507629503,6.63748976280491,plateaux,agou,agotime nord,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ba7,Plateaux,Agou,Agou 2,Agotimé-Nord,0.7017658331885731,6.641268207314553,plateaux,agou,agotime nord,barrages,agou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ba8,Plateaux,Ogou,Ogou 3,Gléi,1.161546331455664,7.331223836823679,plateaux,ogou,glei,barrages,ogou
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4ba9,Savanes,Tandjoaré,Tandjoaré 1,Bombouaka,0.19553668070966565,10.728714813270747,savanes,tandjoare,bombouaka,barrages,tandjoare
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4baa,Maritime,Zio,Zio 3,Gamé-Sèva,1.2186314758939063,6.741071446165568,maritime,zio,game seva,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bab,Savanes,Kpendjal-Ouest,Kpendjal-Ouest 2,Papri,0.4251863685052821,10.982978274795503,savanes,kpendjal ouest,papri,barrages,kpendjal ouest
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bac,Savanes,Tône,Tône 1,Dapaong,0.16059523406014645,10.887241646842451,savanes,tone,dapaong,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bad,Savanes,Tône,Tône 4,Korbongou,0.316369396938668,10.99332278225419,savanes,tone,korbongou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bae,Savanes,Tône,Tône 1,Dapaong,0.21416566693196276,10.86042633877382,savanes,tone,dapaong,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4baf,Savanes,Tône,Tône 1,Dapaong,0.20240099872450104,10.88098065031079,savanes,tone,dapaong,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bb0,Savanes,Kpendjal-Ouest,Kpendjal-Ouest 1,Nayéga,0.4158415150346968,10.758911273601205,savanes,kpendjal ouest,nayega,barrages,kpendjal ouest
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bb1,Savanes,Tandjoaré,Tandjoaré 1,Bogou,0.17401804935991838,10.66302189957679,savanes,tandjoare,bogou,barrages,tandjoare
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bb2,Savanes,Tône,Tône 1,Dapaong,0.16660758984243454,10.816310823298025,savanes,tone,dapaong,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bb3,Savanes,Kpendjal-Ouest,Kpendjal-Ouest 2,Namoundjoga,0.399781700937524,10.898174768656176,savanes,kpendjal ouest,namoundjoga,barrages,kpendjal ouest
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bb4,Savanes,Tône,Tône 4,Korbongou,0.4025428760704586,10.92466294355237,savanes,tone,korbongou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bb5,Savanes,Oti,Oti 1,Mango,0.44198281578719684,10.3588460322225,savanes,oti,mango,barrages,oti
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bb6,Savanes,Oti,Oti 1,Mango,0.46992727563745174,10.40290752884909,savanes,oti,mango,barrages,oti
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bb7,Savanes,Tandjoaré,Tandjoaré 2,Nano,0.10067943940438888,10.688004871768724,savanes,tandjoare,nano,barrages,tandjoare
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bb8,Savanes,Kpendjal,Kpendjal 1,Mandouri,0.7406439516964695,10.863320306706054,savanes,kpendjal,mandouri,barrages,kpendjal
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bb9,Savanes,Kpendjal-Ouest,Kpendjal-Ouest 1,Naki-Est,0.38719966230039127,10.722220445870933,savanes,kpendjal ouest,naki est,barrages,kpendjal ouest
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bba,Savanes,Kpendjal-Ouest,Kpendjal-Ouest 1,Naki-Est,0.3950969937721712,10.699057641774505,savanes,kpendjal ouest,naki est,barrages,kpendjal ouest
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bbb,Savanes,Oti,Oti 2,Barkoissi,0.29746201864052957,10.555082385478169,savanes,oti,barkoissi,barrages,oti
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bbc,Savanes,Oti-Sud,Oti-Sud 1,Gando,0.7426603510500573,10.33773545427458,savanes,oti sud,gando,barrages,oti sud
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bbd,Savanes,Oti-Sud,Oti-Sud 1,Gando,0.745215937899536,10.335246489930675,savanes,oti sud,gando,barrages,oti sud
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bbe,Savanes,Oti-Sud,Oti-Sud 1,Mogou,0.6483292030427029,10.382334104399604,savanes,oti sud,mogou,barrages,oti sud
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bbf,Savanes,Cinkassé,Cinkassé 1,Boadé,-0.06883342614298955,11.118525851191489,savanes,cinkasse,boade,barrages,cinkasse
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bc0,Savanes,Cinkassé,Cinkassé 2,Timbou,0.12650775861479985,11.034910482098992,savanes,cinkasse,timbou,barrages,cinkasse
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bc1,Savanes,Cinkassé,Cinkassé 2,Nadjoundi,0.20406139810930696,11.016189914303594,savanes,cinkasse,nadjoundi,barrages,cinkasse
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bc2,Savanes,Tône,Tône 1,Poissongui,0.1914969603162765,11.061103105223975,savanes,tone,poissongui,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bc3,Savanes,Oti-Sud,Oti-Sud 1,Gando,0.8176005941039882,10.285859246821968,savanes,oti sud,gando,barrages,oti sud
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bc4,Savanes,Tône,Tône 2,Nanergou,0.14245595619452414,10.976996508201418,savanes,tone,nanergou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bc5,Savanes,Tône,Tône 3,Tami,0.0608999751658335,10.864434473297809,savanes,tone,tami,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bc6,Savanes,Tône,Tône 3,Tami,0.060258666892775564,10.864187049604201,savanes,tone,tami,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bc7,Maritime,Zio,Zio 3,Gamé-Sèva,1.2187799675394884,6.740543519829435,maritime,zio,game seva,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bc8,Savanes,Tône,Tône 3,Tami,0.05967452392592045,10.864036853683416,savanes,tone,tami,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bc9,Maritime,Zio,Zio 2,Bolou,1.077037617150828,6.447224172569467,maritime,zio,bolou,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bca,Savanes,Tône,Tône 3,Tami,0.062494025448392554,10.859427087541757,savanes,tone,tami,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bcb,Maritime,Zio,Zio 1,Tsévié,1.1645798034377155,6.531215180943742,maritime,zio,tsevie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bcc,Savanes,Tône,Tône 3,Tami,0.06024543648193807,10.861039595767133,savanes,tone,tami,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bcd,Maritime,Zio,Zio 1,Djagblé,1.2762002110424935,6.248783524478615,maritime,zio,djagble,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bce,Maritime,Zio,Zio 1,Tsévié,1.1938405284987663,6.525193764939841,maritime,zio,tsevie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bcf,Maritime,Zio,Zio 1,Tsévié,1.1933982578453823,6.52508992568323,maritime,zio,tsevie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bd0,Maritime,Zio,Zio 1,Gblainvié,1.163013421628522,6.500195166507961,maritime,zio,gblainvie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bd1,Maritime,Zio,Zio 1,Tsévié,1.2034385669475667,6.524679092311091,maritime,zio,tsevie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bd2,Maritime,Zio,Zio 4,Gapé-Centre,1.104150846972774,6.591924279967292,maritime,zio,gape centre,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bd3,Maritime,Zio,Zio 3,Gamé-Sèva,1.1461670529217334,6.75471384818509,maritime,zio,game seva,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bd4,Maritime,Zio,Zio 3,Agbélouvé,1.0814450421717665,6.706865753776255,maritime,zio,agbelouve,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bd5,Maritime,Zio,Zio 1,Gblainvié,1.168355730514328,6.4825462191805,maritime,zio,gblainvie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bd6,Savanes,Tône,Tône 1,Toaga,0.25708337678108956,10.875605505096328,savanes,tone,toaga,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bd7,Maritime,Zio,Zio 2,Bolou,1.161045402795236,6.454521691911103,maritime,zio,bolou,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bd8,Savanes,Tône,Tône 3,Tami,0.10698303317158005,10.842829583881894,savanes,tone,tami,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bd9,Savanes,Tône,Tône 1,Natigou,0.2825494629445144,10.960659503137917,savanes,tone,natigou,barrages,tone
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bda,Kara,Kozah,Kozah 1,Commune De Kara,1.2251116500898251,9.52165843489819,kara,kozah,kara,barrages,kozah
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bdb,Maritime,Zio,Zio 2,Bolou,1.161030516798056,6.454351119500574,maritime,zio,bolou,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bdc,Maritime,Zio,Zio 2,Bolou,1.1603380920136497,6.454833161634039,maritime,zio,bolou,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bdd,Savanes,Tandjoaré,Tandjoaré 1,Bombouaka,0.20763991159878645,10.704307302926306,savanes,tandjoare,bombouaka,barrages,tandjoare
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bde,Maritime,Zio,Zio 1,Tsévié,1.2032204474552335,6.524571065182695,maritime,zio,tsevie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bdf,Maritime,Zio,Zio 1,Gblainvié,1.168840820667294,6.4960908811451565,maritime,zio,gblainvie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4be0,Maritime,Zio,Zio 1,Tsévié,1.2016560949599335,6.505297799592156,maritime,zio,tsevie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4be1,Maritime,Zio,Zio 2,Bolou,1.173103887703979,6.4432766683047245,maritime,zio,bolou,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4be2,Maritime,Zio,Zio 4,Gapé-Centre,1.191793911025716,6.544774598350396,maritime,zio,gape centre,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4be3,Maritime,Zio,Zio 4,Gapé-Centre,1.0556712929629624,6.5662834505479575,maritime,zio,gape centre,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4be4,Maritime,Zio,Zio 3,Agbélouvé,1.061325606259576,6.771116641494645,maritime,zio,agbelouve,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4be5,Maritime,Zio,Zio 3,Gamé-Sèva,1.1202935355102517,6.7276071090312115,maritime,zio,game seva,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4be6,Kara,Kéran,Kéran 1,Kantè,1.0370495705275387,9.935339591504366,kara,keran,kante,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4be7,Maritime,Zio,Zio 1,Kpomé,1.3600854922395376,6.317723156935815,maritime,zio,kpome,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4be8,Maritime,Golfe,Golfe 5,Aflao-Gakli,1.1602209045454757,6.190344058447713,maritime,golfe,aflao gakli,barrages,golfe
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4be9,Kara,Kéran,Kéran 3,Warengo,1.1221456753701156,10.056974956168297,kara,keran,warengo,barrages,keran
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bea,Maritime,Zio,Zio 1,Tsévié,1.2067946369862768,6.510884315897011,maritime,zio,tsevie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4beb,Maritime,Zio,Zio 1,Tsévié,1.2020446703792245,6.504391754876875,maritime,zio,tsevie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bec,Maritime,Zio,Zio 2,Bolou,1.1621080308307823,6.447775683410528,maritime,zio,bolou,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bed,Maritime,Zio,Zio 1,Gblainvié,1.1816595966525212,6.506898343312339,maritime,zio,gblainvie,barrages,zio
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bee,Kara,Bassar,Bassar 1,Kalanga,0.6544315020062765,9.216014300722845,kara,bassar,kalanga,barrages,bassar
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bef,Kara,Dankpen,Dankpen 2,Natchitikpi,0.7503308222991674,9.691459146405187,kara,dankpen,natchitikpi,barrages,dankpen
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bf0,Plateaux,Kloto,Kloto 1,Gbalabé,0.581174019148054,6.881475053911325,plateaux,kloto,gbalabe,barrages,kloto
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bf1,Plateaux,Haho,Haho 2,Asrama,1.5010680868777566,7.008654674033211,plateaux,haho,asrama,barrages,haho
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bf2,Plateaux,Est-Mono,Est-Mono 2,Morétan,1.357962292505013,8.104313054646155,plateaux,est mono,moretan,barrages,est mono
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bf3,Maritime,Avé,Avé 1,Kévé,1.031872968171063,6.4635653818040675,maritime,ave,keve,barrages,ave
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bf4,Centrale,Tchaoudjo,Tchaoudjo 2,Lama-Tessi,1.13675963284062,8.82763782645419,centrale,tchaoudjo,lama tessi,barrages,tchaoudjo
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bf5,Centrale,Tchaoudjo,Tchaoudjo 4,Agouloudè,1.321864221309946,9.100799074112595,centrale,tchaoudjo,agouloude,barrages,tchaoudjo
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bf6,Centrale,Tchaoudjo,Tchaoudjo 3,Aléhéridè,1.2170535181767081,9.210529808445722,centrale,tchaoudjo,aleheride,barrages,tchaoudjo
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bf7,Centrale,Tchaoudjo,Tchaoudjo 3,Aléhéridè,1.2167617926987067,9.20168647409455,centrale,tchaoudjo,aleheride,barrages,tchaoudjo
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bf8,Centrale,Mô,Mô 1,Boulohou,0.6124286418139839,8.63513074151319,centrale,mo,boulohou,barrages,mo
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bf9,Centrale,Blitta,Blitta 1,Blitta,0.9676170743049115,8.32079802674126,centrale,blitta,blitta,barrages,blitta
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bfa,Centrale,Blitta,Blitta 1,Blitta,0.9671868449244353,8.320538887017136,centrale,blitta,blitta,barrages,blitta
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bfb,Centrale,Blitta,Blitta 1,Blitta,0.9684317258686377,8.32260433980019,centrale,blitta,blitta,barrages,blitta
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bfc,Centrale,Blitta,Blitta 2,Koffiti,1.1610291341896621,8.03913430834744,centrale,blitta,koffiti,barrages,blitta
+_mview_general_digues_petits_barrages.fid-54b5a690_19f1563616b_4bfd,Centrale,Blitta,Blitta 2,Langabou,1.1356375874353355,8.165178392047885,centrale,blitta,langabou,barrages,blitta
